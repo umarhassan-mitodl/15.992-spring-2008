@@ -5,6 +5,8 @@ description: Lecture presentation on Wal-Mart, sustainable retail, and whether b
 file: /courses/15-992-s-lab-laboratory-for-sustainable-business-spring-2008/4b40f38c92bf0a1ebfb68f439b81c955_lec_06.pdf
 file_size: 476316
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

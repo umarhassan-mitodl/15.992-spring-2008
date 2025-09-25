@@ -5,6 +5,8 @@ description: Lecture presentation on sustainable infrastructure and internationa
 file: /courses/15-992-s-lab-laboratory-for-sustainable-business-spring-2008/7e4fc829b23a0175a6251ff69d59d1b3_lec_16.pdf
 file_size: 342358
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

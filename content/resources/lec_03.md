@@ -5,6 +5,8 @@ description: Lecture presentation on organizational response, overload, change, 
 file: /courses/15-992-s-lab-laboratory-for-sustainable-business-spring-2008/a6e04f84c8b90a1df4a05cf7e014cd7b_lec_03.pdf
 file_size: 918045
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

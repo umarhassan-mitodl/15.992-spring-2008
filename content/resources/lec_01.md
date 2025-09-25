@@ -5,6 +5,8 @@ description: Lecture presentation with an introduction to the course, the case o
 file: /courses/15-992-s-lab-laboratory-for-sustainable-business-spring-2008/bf352eb2d9cdf55d8985b6182aaa45dd_lec_01.pdf
 file_size: 150027
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
