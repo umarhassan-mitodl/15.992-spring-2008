@@ -5,8 +5,6 @@ description: Lecture presentation on sustainability of buildings, and new market
 file: /courses/15-992-s-lab-laboratory-for-sustainable-business-spring-2008/e992f2657cf4a31cc6b60be92aaf97eb_lec_15.pdf
 file_size: 175984
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

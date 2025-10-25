@@ -2,8 +2,6 @@
 content_type: external-resource
 external_url: http://online.wsj.com/article/SB120813542203111705.html
 has_external_license_warning: true
-hide_download: true
-hide_download_original: null
 license: https://en.wikipedia.org/wiki/All_rights_reserved
 status: broken
 title: Two Carbon-Market Millionaires Take a Hit as U.N. Clamps Down

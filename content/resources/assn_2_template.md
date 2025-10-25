@@ -4,8 +4,6 @@ description: Assignment on rating the sustainability of your home.
 file: /courses/15-992-s-lab-laboratory-for-sustainable-business-spring-2008/7378a70d8edeacff5721e4fccd62cb60_assn_2_template.xls
 file_size: 56320
 file_type: application/msword
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

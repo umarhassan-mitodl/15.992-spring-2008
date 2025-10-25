@@ -2,8 +2,6 @@
 content_type: external-resource
 external_url: https://journals.sagepub.com/doi/pdf/10.1068/b33022t
 has_external_license_warning: true
-hide_download: true
-hide_download_original: null
 license: https://en.wikipedia.org/wiki/All_rights_reserved
 status: broken
 title: Transition Challenges for Alternative Fuel Vehicle and Transportation Systems

@@ -5,8 +5,6 @@ description: Lecture presentation on ecological and economic sustainability, glo
 file: /courses/15-992-s-lab-laboratory-for-sustainable-business-spring-2008/b2d25ff6ab612b3fca4ee290585daa0d_lec_02.pdf
 file_size: 824761
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

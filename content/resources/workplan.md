@@ -4,8 +4,6 @@ description: Guidelines on preparing a workplan for the S-Lab project.
 file: /courses/15-992-s-lab-laboratory-for-sustainable-business-spring-2008/5858b8f508b9604d3b7229b605efb4b8_workplan.pdf
 file_size: 27427
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
